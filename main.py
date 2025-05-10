@@ -2,7 +2,7 @@ import telebot
 import yt_dlp
 import os
 
-TOKEN = '7657271837:AAH0LnnjBED28pf_kILtguVDKShIN38m930'
+TOKEN = '7657271837:AA...'
 bot = telebot.TeleBot(TOKEN)
 
 MAX_SIZE = 50 * 1024 * 1024  # 50 MB
